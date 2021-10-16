@@ -1,0 +1,16 @@
+{
+    "name": "gibouin/composer",
+    "description": "Projet quete composer",
+    "autoload": {
+        "psr-4": {
+            "Gibouin\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "joffrey-gibouin",
+            "email": "joffreygibouin@gmail.com"
+        }
+    ],
+    "require": {}
+}
